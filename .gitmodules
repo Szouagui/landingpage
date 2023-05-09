@@ -1,0 +1,3 @@
+[submodule "landingpage"]
+    path = landingpage
+    url = https://github.com/Szouagui/landingpage.git
